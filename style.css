@@ -1,0 +1,17 @@
+body {
+  margin-top: 70px;
+  background: #333;
+  color: #fff;
+}
+.r-color{
+    color:rgb(182, 40, 40);
+}
+.b-color{
+    background: white;
+    color: black;
+}
+@media screen and (max-width: 1000px) {
+  .font {
+    font-size: 40px;
+  }
+}
